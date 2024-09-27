@@ -1,25 +1,25 @@
 {
-  "name": "X-BOT-MD",
+  "name": "SARKAR-AK",
   "version": "3.0.0",
-  "description": "X-BOT-MD Simple WhatsApp Bot",
-  "logo": "https://i.imgur.com/Q2UNwXR.jpg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device"],
+  "description": "Sarkar-AK Simple WhatsApp Bot",
+  "logo": "https://github.com/khanak1/zimbot-v4/blob/zim-bot/c57517af20709107a09ea46938e21000.png",
+  "keywords": ["whatsapp", "bot", "ak", "multi-device"],
   "repository": "https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMkhaRWxVN1pBTTJxYVY5ak1JeHduRnFPTlpoNUNVTERnQlp3SHdPRFBXOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0RhZmxMVzhWWWJRbHArV3F1UEsxaTNlT0V0VlpzamZyQ29oUnRidHFSdz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpTkJaYkNraFNldzN0T0VnUDBSeXh2UWc5WGV1KzJFWjYvQWNVdTFLZEg0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJEaGlPUjFoUWRzMndTb1FnUUlUc01GNEk1ZlJOY3ZqUUdOdzdHMnc0QlVJPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9MMEVidEtOWXJnSGJYR2xRUkl3ZXhBbVNkdFlqYXRGeDl6S0VvOUkwV1k9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InEyU0RHTlhQRVJrRkxFaitTaW9tNHBvOXFMd2FiOWdMaWJYYmFaeFkwMkU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVUtrVVBPWjZRaXR2WVhYOVU2T0V4dW1uWTh2YnJJVFc4R2hMNFpGdWRXUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibjhSam5qOG1sS2FZR0wrNFd2QWlOcVAxTWpPQzlBOFF4dXVLWmFXS2V4UT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZxZ3gvSS9relhPRWQvNmd6L1lCL2FqNmliUEM3NWo5eTRkRDZSRGhFZmVsazhTci9zbG4ybmx2cWk2ZXQ4c20rRW40clpWT0FuQlVRak50VmNhSUJBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTA5LCJhZHZTZWNyZXRLZXkiOiJWckVPMWRoeXRpakFwNUY3cU1oUGUydWpUaHNRTnBGRlBCUHg1cFdZOHJzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjkyMzU1NjE1OTIzNEBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJFQzhGMkQ5MzZCRjg0QjkxNUY3MkYwNUYzQzE0QTczNSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzI3NDU1MTMzfSx7ImtleSI6eyJyZW1vdGVKaWQiOiI5MjM1NTYxNTkyMzRAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiRkQ1NTFFODU1NzM2MkVFOEZFQTQ4QTM0NkU3MkMxOUIifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyNzQ1NTEzM31dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoicFhLQkFCQnNTMlN0dWZxbVhMcVNhQSIsInBob25lSWQiOiJmMTA3YTAwOC00OGI5LTQwNWYtYTg5My1kNTIxZDczNDY3N2MiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNlUyd1hiM2JiMDZoaGh5RG4xRGdPWXgvbmR3PSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im54bHNNZ08zK0tTaTkvakNMbmxvOTl6RFVMND0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJDOUpXMkJZWSIsIm1lIjp7ImlkIjoiOTIzNTU2MTU5MjM0OjM4QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IkFmemFhbCBLaGFuIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNPS053ZDBCRUl1LzI3Y0dHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJ5WUQwczA2UnBJbG03TDNIdXY1VGFEbktEanBOWjllT2ZYOXV3cEQxZUZzPSIsImFjY291bnRTaWduYXR1cmUiOiJBVTE0cFhOcnlpREFndGkzcmtCY0dscXRwcVpnZFFQSzFCSmJSS2xTSzdNVytCQjZXVk92ZjdNMlMwOXh3bWRsSUdIMnBVU2RFVWQxY1ExdllkblpEZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiS0x1QW9SK3l6anNEbkc0YmtuNUFUaDB4eTRFWlFkbmtWYmdaOFdhNlIvTVNOZk9EU0lWaStEVGJOSGJRY2VTRFVSYWdlN1FjMWI3NktZemdMRUQrQVE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5MjM1NTYxNTkyMzQ6MzhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY21BOUxOT2thU0padXk5eDdyK1UyZzV5ZzQ2VFdmWGpuMS9ic0tROVhoYiJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyNzQ1NTEyOCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFFb3AifQ==",
       "required": true
     },
     "HANDLER": {
       "description": "Enter Prefix For Commands",
-      "required": false,
+      "required": true,
       "value": "."
     },
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": true,
-      "value": "917012984396"
+      "value": "923556159234"
     },
     "HEROKU_APP_NAME": {
       "description": "Enter Your Heroku App Name Same As Above You Entered",
@@ -31,33 +31,33 @@
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
-      "required": false,
-      "value": "X BOT MD;ASWIN SPARKY"
+      "required": true,
+      "value": "Sarkar-Ak;AFZAAL KHAN"
     },
     "AUDIO_DATA": {
       "description": "Enter Your Owner Name",
-      "required": false,
-      "value": "X BOT MD;ASWIN SPARKY;https://i.imgur.com/fVCRCYG.jpeg"
+      "required": true,
+      "value": "Sarkar-Ak;AFZAAL KHAN;https://github.com/khanak1/zimbot-v4/blob/zim-bot/c57517af20709107a09ea46938e21000.png"
     },
     "BOT_INFO": {
       "description": "Enter Your Owner Number",
-      "required": false,
-      "value": "X-BOT-MD;ASWIN SPARKY;https://i.imgur.com/r3GZeiX.jpeg"
+      "required": true,
+      "value": "923556159234"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter Your Bot Name",
       "required": false,
-      "value": "false"
+      "value": "Sarkar-Ak"
     },
     "WORK_TYPE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
       "required": false,
-      "value": "private"
+      "value": "public"
     },
     "AUTO_STATUS_VIEW": {
       "description": "If You Want To View Status Automatically, Type true. Otherwise, Type false",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }
   },
   "addons": [
