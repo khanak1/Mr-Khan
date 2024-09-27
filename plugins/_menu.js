@@ -39,8 +39,8 @@ Sparky(
         } else {
             let [date,
                 time] = new Date()
-            .toLocaleString("en-IN", {
-                timeZone: "Asia/Kolkata"
+            .toLocaleString("en-IN-pk", {
+                timeZone: "Asia/Karachi"
             })
             .split(",");
             let menu = `•  owner : ${BOT_INFO.split(";")[1]}
